@@ -1,0 +1,5 @@
+Jacek;Placek;1000
+Michał;Kowalski;0
+Joanna;Komputerowa;5
+Dariusz;Oczywisty;10
+Tadeusz;Nowak;0
